@@ -53,12 +53,22 @@ I'm a passionate **Full-stack & Mobile Developer** based in Indonesia. I have a 
 
 ---
 
+---
+
 ## 📊 My GitHub Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guusstt&show_icons=true&theme=radical&hide_border=true" alt="Gus's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guusstt&layout=compact&theme=radical&hide_border=true" alt="Gus's Top Languages" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Guusstt&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guusstt&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" 
+    height="170"
+  />
+
 </div>
 
 ---
