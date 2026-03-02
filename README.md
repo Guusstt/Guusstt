@@ -56,27 +56,30 @@ I'm a passionate **Full-stack & Mobile Developer** based in Indonesia. I have a 
 ---
 ---
 
+---
+
 ## 📊 My GitHub Journey
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guusstt&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    src="https://stats.up.railway.app/api?username=Guusstt&show_icons=true&theme=radical" 
     height="165"
   />
   
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Guusstt&layout=compact&theme=radical&hide_border=true" 
+    src="https://stats.up.railway.app/api/top-langs?username=Guusstt&layout=compact&theme=radical" 
     height="165"
   />
 </p>
 ---
 
+---
+
 ## 🐍 My Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Guusstt/Guusstt/output/github-contribution-grid-snake.svg" alt="Gus's Contribution Snake" />
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guusstt/Guusstt/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 ## ⚡ Fun Fact
