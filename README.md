@@ -1,19 +1,20 @@
 # Hi there, I'm Gus! 👋 
 
-I'm a **Full-stack Developer** with a keen interest in building secure, scalable web applications and exploring the depths of digital forensics. I enjoy bridging the gap between robust backend logic and intuitive frontend experiences.
+I'm a **Full-stack & Mobile Developer** with a passion for building secure, scalable, and cross-platform applications. I enjoy bridging the gap between robust backend logic and intuitive user experiences, whether on the web or in your pocket.
 
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** [Proqua Consulting](https://github.com/yourlink) - Building impactful digital solutions.
-- 💻 **Tech Stack:** Specialized in **React**, **PHP (CodeIgniter)**, and **Python**.
+- 🔭 **Currently working on:** [Proqua Consulting](https://github.com/yourlink) - Crafting impactful digital solutions.
+- 📱 **Mobile Focus:** Expanding my expertise in cross-platform mobile development.
+- 💻 **Core Tech:** Specialized in **React**, **PHP (CodeIgniter)**, and **Python**.
 - 🛡️ **Niche Interest:** Digital Forensics & Malware Analysis (especially on Windows & Linux environments).
-- 🐧 **OS of Choice:** Proud **Ubuntu** user, occasionally tinkering with Kali Linux for security research.
 
 ### 🛠️ My Toolbox
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Frontend** | ReactJS, JavaScript, CSS3, Tailwind |
+| **Mobile** | Flutter / React Native (Atau sesuaikan dengan yang kamu pelajari) |
 | **Backend** | PHP (CodeIgniter), Python, Node.js |
 | **Database** | MySQL, PostgreSQL |
 | **Tools & OS** | Git, Docker, Ubuntu, Kali Linux, VS Code |
@@ -27,9 +28,9 @@ I'm a **Full-stack Developer** with a keen interest in building secure, scalable
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-gustika/)
-- 📧 [Email Me](mailto:muhammadgustikaa.com)
+- 📧 [Email Me](mailto:muhammadgustikaa@gmail.com)
 
 ---
 
 ### ⚡ Fun Fact
-I drive a **2011 Ford Fiesta Sporty** and I'm the kind of person who installs a Head-Up Display (HUD) just because I can. I believe coding and car maintenance both require the same thing: patience and a lot of debugging.
+I drive a **2011 Ford Fiesta Sporty** and I'm the kind of person who installs a Head-Up Display (HUD) just because I can. I believe coding, car maintenance, and mobile optimization all require the same thing: patience and a lot of debugging.
