@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/wave.gif" width="30px"> I'm Muhammad Gustika (Gus)
+# Hi there! <img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/main/wave.gif" width="30px"> I'm Muhammad Gustika Chafidh 'Alim (Gustika)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
