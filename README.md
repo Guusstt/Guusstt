@@ -61,15 +61,7 @@ I'm a passionate **Full-stack & Mobile Developer** based in Indonesia. I have a 
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img 
-    src="https://stats.up.railway.app/api?username=Guusstt&show_icons=true&theme=radical" 
-    height="165"
-  />
-  
-  <img 
-    src="https://stats.up.railway.app/api/top-langs?username=Guusstt&layout=compact&theme=radical" 
-    height="165"
-  />
+  <img src="https://streak-stats.demolab.com?user=Guusstt&theme=radical&hide_border=true" />
 </p>
 ---
 
