@@ -1,22 +1,26 @@
 # Hi there! 👋 I'm Muhammad Gustika Chafidh 'Alim (Gustika)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Health+Tech+System+Engineer;Building+Scalable+Hospital+Management+Systems;Secure+%26+Reliable+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%26+Mobile+Developer;Building+Scalable+Web+%26+Mobile+Applications;Health+Tech+%7C+Event+%26+Ticketing+Platforms;Secure+%26+Reliable+Systems" />
 </div>
 
 ---
 
-## 🏥 About Me
+## 👨‍💻 About Me
 
-I'm a **Fullstack Developer at ProQua Consulting**, a company specializing in **Hospital & Clinic Management Systems**.
+I'm a **Full Stack Engineer & Mobile Developer** with experience building scalable and reliable systems across web and mobile platforms. 
 
-I design and develop scalable, secure, and efficient web-based healthcare systems that support medical workflows, patient management, and operational efficiency.
+Currently working as a **Full Stack Developer at ProQua Consulting**, where I design and develop healthcare information systems (SIMRS & EMR) integrated with national APIs like **BPJS Kesehatan** and **SATUSEHAT**. 
+
+I also build event & ticketing platforms like **StrideIn**, academic systems, and various web applications with a strong focus on clean architecture, API integration, and system optimization.
 
 💼 Current Focus:
-- Hospital Information Systems (HIS)
-- Clinic Management Systems
-- Backend Architecture & API Development
-- Secure Data Handling & System Optimization
+- Web & Mobile Application Development
+- Hospital Information Systems (HIS), SIMRS & EMR
+- Event & Ticketing Platforms
+- API Development & System Integration
+- Backend Architecture & Database Optimization
+- Secure System Design
 
 🛡️ Strong interest in:
 - Digital Forensics
@@ -29,9 +33,11 @@ I design and develop scalable, secure, and efficient web-based healthcare system
 
 ### 💻 Backend Development
 <div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
 </div>
 
@@ -40,9 +46,20 @@ I design and develop scalable, secure, and efficient web-based healthcare system
 ### 🌐 Frontend Development
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+---
+
+### 📱 Mobile Development
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
 ---
